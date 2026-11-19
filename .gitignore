@@ -1,0 +1,8 @@
+# Fichiers compiles localement
+*.class
+build/
+out/
+.vscode/
+.idea/
+*.log
+# On conserve JeuBalle.jar car c'est un livrable demande pour le mini-projet.
