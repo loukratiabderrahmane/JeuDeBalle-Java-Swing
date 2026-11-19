@@ -7,16 +7,11 @@ Application Java Swing avec balle rouge animée, raquette au clavier et démonst
 - `JeuBalle.java` : **code source complet**, un fichier, avec des commentaires courts sans accents.
 - `JeuBalle.jar` : **application exécutable** avec son icône intégrée.
 - `jeu_balle_icon.png` : icône originale personnalisée de l'application.
-- `JeuBalleTests.java` : petits tests des collisions (aucun framework nécessaire).
-- `lancer_windows.bat` : lancer le JAR facilement sous Windows.
-- `compiler_windows.bat` : recompiler et recréer le JAR sous Windows (JDK requis).
 - `.gitignore` : fichiers inutiles à ne pas envoyer sur GitHub.
 
 ## Lancer sous Windows
 
-Option A : double-cliquer sur **`lancer_windows.bat`**.
-
-Option B : ouvrir un terminal dans ce dossier et exécuter :
+ouvrir un terminal dans ce dossier et exécuter :
 
 ```powershell
 java -jar JeuBalle.jar
