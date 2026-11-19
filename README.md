@@ -1,4 +1,4 @@
-# Jeu de balle — mini-projet Java II
+# Jeu de balle - mini-projet Java II
 
 Application Java Swing avec balle rouge animée, raquette au clavier et démonstration concrète de `Thread`, `Runnable`, `Thread.sleep()` et `SwingUtilities.invokeLater()`.
 
@@ -32,15 +32,6 @@ Ouvrir le dossier entier avec VS Code, puis utiliser le terminal :
 javac -encoding UTF-8 JeuBalle.java
 java JeuBalle
 ```
-
-Pour vérifier les collisions :
-
-```powershell
-javac -encoding UTF-8 JeuBalle.java JeuBalleTests.java
-java JeuBalleTests
-```
-
-Pour recréer le JAR : double-cliquer sur `compiler_windows.bat` ou exécuter ses commandes dans le terminal.
 
 ## Commandes du jeu
 
